@@ -1,3 +1,5 @@
+Project Name : MyRetailService
+
 Environment : Spring Boot, MongoDB, Mockito, Eclipse IDE, Maven
 
 Project was build with maven
